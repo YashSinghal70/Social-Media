@@ -1,0 +1,108 @@
+@media only screen and (max-width:1300px) {
+    .top .menu-navbar-nav
+    {
+        width: auto!important;
+    }  
+    .top .learn-more-btn
+    {
+        font-size: 16px !important;
+        padding: 12px 12px !important;
+    
+    }
+}
+@media only screen and (max-width:1230px) {
+    .top .learn-more-btn
+    {
+        font-size: 15px !important;
+        padding: 12px 9px !important;
+    }  
+}
+
+@media only screen and (max-width:1215px) {
+    .top .learn-more-btn
+    {
+        font-size: 14px !important;
+        padding: 12px 6px !important;
+    }  
+}
+
+@media only screen and (max-width:1195px) {
+    .top .learn-more-btn
+    {
+        font-size: 14px !important;
+        padding: 12px 3px !important;
+    }  
+}
+@media only screen and (max-width:1195px) {
+    .top .learn-more-btn
+    {
+        font-size: 15px !important;
+        padding: 12px 5px !important;
+    }  
+}
+
+@media only screen and (max-width:992px) {
+    .top .learn-more-btn
+    {
+        font-size: 18px !important;
+        padding: 6px 23px !important;
+        margin-top: 15px;
+    }
+     
+    .top .menu-navbar-nav
+    {
+        text-align: center!important;
+        font-weight: 400!important;
+      
+    }
+    .top .navbar-brand img
+{
+  width: 190px;
+    height: auto;
+}
+.banner-title
+{
+    font-size: 37px;
+}
+.abouttop .aboutnum
+{
+margin: auto;
+
+}
+.abouttitle
+{
+    max-width: 900px;
+}
+.abouttext
+{
+    max-width: 900px;
+}
+
+}
+
+@media only screen and (max-width:767px) {
+  .banner .row
+  {
+    flex-direction: column-reverse!important;
+  }
+  .freetitle
+  {
+    font-size: 30px;
+  }
+  .footertop
+  {
+    text-align: center!important;
+  }
+  /* .showcse img
+  {
+    width: 500px!important;
+    
+  } */
+}
+@media only screen and (max-width:458px) {
+
+    .faqtop .accordion-button
+    {
+        font-size: 18px!important;
+    }
+}
